@@ -12,8 +12,4 @@ fullscreen = 0
 [buildozer]
 log_level = 2
 warn_on_root = 1
-[app:permissions]
-android.permissions = INTERNET
-[app:android]
-android.archs = arm64-v8a, armeabi-v7a
-android.allow_backup = False
+
