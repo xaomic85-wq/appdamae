@@ -1,4 +1,3 @@
-
 [app]
 title = App da Mae
 package.name = appdamae
